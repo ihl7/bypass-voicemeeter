@@ -1,0 +1,14 @@
+C:\Users\hani\source\repos\bypass voicemeeter\bypass voicemeeter\bin\x64\Debug\bypass voicemeeter.exe.config
+C:\Users\hani\source\repos\bypass voicemeeter\bypass voicemeeter\bin\x64\Debug\bypass voicemeeter.exe
+C:\Users\hani\source\repos\bypass voicemeeter\bypass voicemeeter\bin\x64\Debug\bypass voicemeeter.pdb
+C:\Users\hani\source\repos\bypass voicemeeter\bypass voicemeeter\bin\x64\Debug\Memory.dll
+C:\Users\hani\source\repos\bypass voicemeeter\bypass voicemeeter\bin\x64\Debug\Memory.xml
+C:\Users\hani\source\repos\bypass voicemeeter\bypass voicemeeter\obj\x64\Debug\bypass voicemeeter.csproj.AssemblyReference.cache
+C:\Users\hani\source\repos\bypass voicemeeter\bypass voicemeeter\obj\x64\Debug\bypass voicemeeter.csproj.SuggestedBindingRedirects.cache
+C:\Users\hani\source\repos\bypass voicemeeter\bypass voicemeeter\obj\x64\Debug\bypass_voicemeeter.Form1.resources
+C:\Users\hani\source\repos\bypass voicemeeter\bypass voicemeeter\obj\x64\Debug\bypass_voicemeeter.Properties.Resources.resources
+C:\Users\hani\source\repos\bypass voicemeeter\bypass voicemeeter\obj\x64\Debug\bypass voicemeeter.csproj.GenerateResource.cache
+C:\Users\hani\source\repos\bypass voicemeeter\bypass voicemeeter\obj\x64\Debug\bypass voicemeeter.csproj.CoreCompileInputs.cache
+C:\Users\hani\source\repos\bypass voicemeeter\bypass voicemeeter\obj\x64\Debug\bypass voicemeeter.csproj.CopyComplete
+C:\Users\hani\source\repos\bypass voicemeeter\bypass voicemeeter\obj\x64\Debug\bypass voicemeeter.exe
+C:\Users\hani\source\repos\bypass voicemeeter\bypass voicemeeter\obj\x64\Debug\bypass voicemeeter.pdb
